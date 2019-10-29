@@ -1,7 +1,6 @@
 public class main {
     public static void main(String[] args) {
-
-
+        
         int a = 9 ;
         int  arr[] = {2,7,11,4,5};
 
@@ -17,10 +16,6 @@ public class main {
             }
         }
 
-        for (int i = 0 ;i < 9 ;i ++){
-            System.out.println("123");
-        }
-        
     }
 }
 
